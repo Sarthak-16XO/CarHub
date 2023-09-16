@@ -1,6 +1,6 @@
 # CarHub
 
-CarHub is a NextJS car rental website.
+CarHub is a NextJS car rental frontend website.    
 Tech Stack :- 
 NextJS
 Tailwind CSS
